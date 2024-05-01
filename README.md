@@ -18,7 +18,7 @@ Welcome to the File Organiser! This application helps you declutter your folders
 
 - **Operating System**: Windows, macOS, or Linux
 - **Python**: Version 3.6 or higher
-- **Dependencies**: `customtkinter`, `pyperclip`
+- **Dependencies**: `customtkinter`
 
 ## Installation
 
