@@ -23,7 +23,7 @@ Welcome to the File Organiser! This application helps you declutter your folders
 ## Installation
 
 1. Make sure you have Python installed on your computer. You can download it from [here](https://www.python.org/downloads/).
-2. Install the required dependencies by running the following command in your terminal: `pip install customtkinter pyperclip`.
+2. Install the required dependencies by running the following command in your terminal: `pip install customtkinter`.
 3. Download the source code from the [GitHub repository](https://github.com/SmartCoder12345/File-Organiser).
 4. Run the `main.py` file to launch the File Organiser application.
 
